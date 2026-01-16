@@ -23,7 +23,7 @@ Aspiring DevSecOps Engineer
 ### Other
 - **Leadership**: Currently serving as Assistant Club Coordinator in **BUP Robotics Club**
 <p align="center">
-  <img src="" alt="BUP Robotics Club" width="500"/>
+  <img src="https://github.com/MusannaMohian/MusannaMohian/blob/main/BUPRC_Mohian.jpg" alt="BUP Robotics Club" width="500"/>
 </p>
 
 ## Outside the Terminal
